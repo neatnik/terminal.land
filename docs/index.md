@@ -6,7 +6,7 @@ Terminal Land is very new, and still under heavy active development, so please b
 
 ## Contents
 
-* Read up on the [[Basics]], which covers gameplay and core mechanics
-* Consider going through the [[Tutorial]], which will show you how to do a few things
-* Check out the [[Command Reference|Commands]] for a full list of commands
-* View the [[FAQ]], which answers questions that you might also have
+* Read up on the [Basics](basics.md), which covers gameplay and core mechanics
+* Consider going through the [Tutorial](tutorial.md), which will show you how to do a few things
+* Check out the [Command Reference](commands.md) for a full list of commands
+* View the [FAQ](faq.md), which answers questions that you probably even’t think to ask
