@@ -10,7 +10,7 @@ If you’ve ever played [interactive fiction](https://en.wikipedia.org/wiki/Inte
 
 ## Docs
 
-All information about the game can be found in the [Docs](https://docs.terminal.land), which is currently being built out.
+All information about the game can be found in the [Docs](https://docs.terminal.land), which are currently being built out.
 
 ## Help
 
