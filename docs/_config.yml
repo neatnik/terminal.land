@@ -1,2 +1,13 @@
+theme: jekyll-theme-primer
+
+github:
+  private: false
+  license:
+    name: MIT
+  source:
+    branch: "main"
+    path: "/"
+  repository_url: "https://github.com/neatnik/terminal.land"
+  
 title: docs.terminal.land
 description: Terminal Land Documentation
