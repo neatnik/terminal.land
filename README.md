@@ -26,7 +26,7 @@ There are a few ways to get help:
 
 If you’d like to contribute to Terminal Land’s development, consider sponsoring the project on one of these platforms:
 
-* [GitHub](https://github.com/neatnik)
+* [GitHub](https://github.com/sponsors/neatnik)
 * [Patreon](https://patreon.com/neatnik)
 * [Ko-fi](https://ko-fi.com/neatnik)
 
