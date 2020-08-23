@@ -2,7 +2,7 @@
 
 _A boundless world of interactive fiction, with a dash of Bash_
 
-<img alt="Connect to Terminal Land" src="https://terminal.land/meta/svg/banner.svg?v=3">
+<a href="https://terminal.land"><img alt="Connect to Terminal Land" src="https://terminal.land/meta/svg/banner.svg?v=3"></a>
 
 ## About
 
