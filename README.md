@@ -12,7 +12,7 @@ If you like [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fict
 
 ## Documentation
 
-All information about the game can be found in the [Guide](https://guide.terminal.land), at [https://guide.terminal.land]. Feel free to suggest additions or changes in GitHub.
+All information about the game can be found in the [Guide](https://guide.terminal.land), at https://guide.terminal.land. Feel free to suggest additions or changes in GitHub.
 
 ## Help
 
@@ -26,5 +26,6 @@ There are a few ways to get help:
 
 If you’d like to contribute to Terminal Land’s development, check out the different sponsorship services shown on this page. Your support would be hugely appreciated, and you’ll get some awesome goodies too!
 
+___
 
 © 2020 Neatnik LLC. All rights reserved.
