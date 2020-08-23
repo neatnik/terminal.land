@@ -10,7 +10,7 @@ Terminal Land is very new, and still under heavy active development, so please b
 
 ## Getting Started
 
-* If you’re new to all of this and have no idea what to do, start with [[the Basics]]. We’ll walk you through everything!
+* If you’re new to all of this and have no idea what to do, start with [The Basics](basics.md). We’ll walk you through everything!
 
 ## Contents
 
