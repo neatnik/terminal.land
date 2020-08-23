@@ -17,8 +17,11 @@
 
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-left text-gray">
-        <a href="/">Home</a> &#183; <a href="{% site.github.repository_url %}/tree/master/{% page.relative_path %}">Edit on GitHub</a>
-      </div>
+        <a href="/">Home</a> &#183; <a
+  href="{{ site.github.repository_url }}/edit/{{ site.branch }}/{{ page.relative_path }}"
+>
+  Edit this page on GitHub
+</a></div>
       {% endif %}
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
