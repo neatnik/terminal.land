@@ -2,22 +2,29 @@
 
 _A boundless world of interactive fiction, with a dash of Bash_
 
-Play now! [https://terminal.land](https://terminal.land)
+<a href="https://terminal.land"><img alt="Connect to Terminal Land" src="https://terminal.land/meta/svg/banner.svg?v=3"></a>
 
-This is a different kind of game, one in which the action takes the form of text and the graphics exist only in your mind. It might not be your cup of tea, but that’s OK—nobody’s forcing you to drink anything here. ☺️
+## About
 
-If you’ve ever played [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction) (often called “text adventure” games), you might like Terminal Land. And if you enjoy spending time in a terminal, you might love it.
+This is a different kind of game, one in which interactions are purely text-based and the graphics exist solely in your mind. It might not be your cup of tea, but that’s OK—it’s not for everyone. ☺️
 
-## Docs
+If you like [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction), you might enjoy Terminal Land. And if you like spending time in a terminal, you might love it.
 
-All information about the game can be found in the [Docs](https://docs.terminal.land), which are currently being built out.
+## Documentation
+
+All information about the game can be found in [docs.terminal.land](https://docs.terminal.land). Feel free to suggest additions or changes in GitHub.
 
 ## Help
 
 There are a few ways to get help:
 
 1. Open an [issue](https://github.com/neatnik/terminal.land/issues) here in GitHub. Issues aren’t just for bugs! If you have a question or need clarification, you’re encouraged to open an issue.
-2. Ask in the [Discord server](https://discord.gg/m7aqjBq) and someone will help you.
+2. Ask in the [Discord server](https://discord.gg/m7aqjBq) and someone will help you there.
 3. Send an email to [terminal.land@neatnik.net](mailto:terminal.land@neatnik.net).
+
+## Supporting Terminal Land
+
+If you’d like to contribute to Terminal Land’s development, check out the different sponsorship services shown on this page. Your support would be hugely appreciated, and you’ll get some awesome goodies too!
+
 
 © 2020 Neatnik LLC. All rights reserved.
