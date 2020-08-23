@@ -24,8 +24,10 @@ There are a few ways to get help:
 
 ## Supporting Terminal Land
 
-If you’d like to contribute to Terminal Land’s development, check out the different sponsorship services shown on this page. Your support would be hugely appreciated, and you’ll get some awesome goodies too!
+If you’d like to contribute to Terminal Land’s development, consider sponsoring the project on one of these platforms:
 
-___
+* [GitHub](https://github.com/neatnik)
+* [Patreon](https://patreon.com/neatnik)
+* [Ko-fi](https://ko-fi.com/neatnik)
 
-© 2020 Neatnik LLC. All rights reserved.
+Your support would mean so much, and you also get some pretty sweet goodies, too!
