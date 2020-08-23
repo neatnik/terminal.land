@@ -12,7 +12,7 @@ If you like [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fict
 
 ## Documentation
 
-All information about the game can be found in the [Guide](https://guide.terminal.land), at [guide.terminal.land]. Feel free to suggest additions or changes in GitHub.
+All information about the game can be found in the [Guide](https://guide.terminal.land), at [https://guide.terminal.land]. Feel free to suggest additions or changes in GitHub.
 
 ## Help
 
