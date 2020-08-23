@@ -4,5 +4,13 @@
 @import "{{ site.theme }}";
 
 header {
-	font-size: 1.2em;
+	font-size: 1.3em;
+}
+
+header a:link,
+header a:visited,
+header a:hover,
+header a:active {
+	text-decoration: none;
+	color: #fff;
 }
