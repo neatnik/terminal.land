@@ -2,7 +2,11 @@
 
 _A boundless world of interactive fiction, with a dash of Bash_
 
+![Terminal Land Info](https://terminal.land/meta/svg/banner.svg)
+
 Play now! [https://terminal.land](https://terminal.land)
+
+## About
 
 This is a different kind of game, one in which the action takes the form of text and the graphics exist only in your mind. It might not be your cup of tea, but that’s OK—nobody’s forcing you to drink anything here. ☺️
 
