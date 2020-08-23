@@ -10,15 +10,14 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
-      <a href="{{ "/" | absolute_url }}"><img style="width: 1em; height: 1em; border-radius: .2em;" src="https://github.com/neatnik/terminal.land/raw/main/docs/img/terminal-land-icon.png" alt="Terminal Land icon"> Terminal Land Documentation</a>
-      {% endif %}
-
+      
+      <header><a href="{{ "/" | absolute_url }}"><img style="width: 1em; height: 1em; border-radius: .2em;" src="https://github.com/neatnik/terminal.land/raw/main/docs/img/terminal-land-icon.png" alt="Terminal Land icon"> Terminal Land Documentation</a></header>
+      
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-left text-gray">
-        <a href="/">Home</a> &#183; <a href="{{ site.github.repository_url }}/tree/master/{{ page.relative_path }}">Edit on GitHub</a>
+        <a href="/">Home</a> &#183; <a href="{% site.github.repository_url %}/tree/master/{% page.relative_path %}">Edit on GitHub</a>
       </div>
       {% endif %}
     </div>
