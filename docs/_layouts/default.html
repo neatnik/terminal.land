@@ -10,6 +10,9 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
+      {% if site.title and site.title != page.title %}
+      <a href="{{ "/" | absolute_url }}"><img style="width: 1em; height: 1em; border-radius: .2em;" src="https://github.com/neatnik/terminal.land/raw/main/docs/img/terminal-land-icon.png" alt="Terminal Land icon"> Terminal Land Documentation</a>
+      {% endif %}
 
       {{ content }}
 
