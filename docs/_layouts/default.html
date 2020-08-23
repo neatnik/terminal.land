@@ -11,12 +11,12 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       
-      <header><a href="{{ "/" | absolute_url }}"><img style="width: 1.3em; height: 1.3em; border-radius: .2em; margin-right: .5em;" src="https://github.com/neatnik/terminal.land/raw/main/docs/img/terminal-land-icon.png" alt="Terminal Land icon"> Terminal Land Documentation</a></header>
+      <header><a href="{{ "/" | absolute_url }}"><img style="width: 1.3em; height: 1.3em; border-radius: .2em; margin: 0 .5em -.5em 0;" src="https://github.com/neatnik/terminal.land/raw/main/docs/img/terminal-land-icon.png" alt="Terminal Land icon"> Terminal Land Documentation</a></header>
       
       {{ content }}
 
 <div class="footer border-top border-gray-light mt-5 pt-3 text-left text-gray">
-This site is open source. {% github_edit_link "Improve this page" %}.
+<a href="{{ repo_url }}{{ current_page.abs_url.rstrip('index.html').rstrip('/') }}.md" class="icon icon-github"> Edit on GitHub</a>
 </div>
 
     </div>
