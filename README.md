@@ -10,7 +10,7 @@ _A boundless world of interactive fiction, with a dash of Bash_
 
 This is a different kind of game, one in which interactions are purely text-based and the graphics exist solely in your mind. It might not be your cup of tea, but that’s OK—it’s not for everyone. ☺️
 
-If you like [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction), you might enjoy Terminal Land. And if you like spending time in a terminal, you might love it.
+If you like spending time in a terminal, you might enjoy Terminal Land. And if you like [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction), you might _love_ it.
 
 ## Documentation
 
