@@ -2,6 +2,8 @@
 
 _A boundless world of interactive fiction, with a dash of Bash_
 
+![Discord](https://img.shields.io/discord/559114885083037717) ![xyzzy](https://img.shields.io/badge/xyzzy-compliant-brightgreen) ![Status](https://img.shields.io/uptimerobot/status/m785814565-dfdfd593481abf0ab1721eee) ![Twitter](https://img.shields.io/twitter/follow/neatnikllc?label=Follow&style=social)
+
 <a href="https://terminal.land"><img alt="Connect to Terminal Land" src="https://terminal.land/meta/svg/banner.svg?v=3"></a>
 
 ## About
