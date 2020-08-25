@@ -38,6 +38,8 @@ Note: commands are shown in capital letters to make them stand out, but you can 
 
 | Command | Arguments | Info |
 |  :--- |  :--- |  :--- |
+| SAY | Person (optional) | Says stuff, either to everyone in the current place or to a specific person (but still visible to everyone)
+| WHISPER | Person (required) | Shares a private message, visible only to the specified person.
 | LAUGH | Person (optional) | Laughs (in general, or at a specific person).
 
 ## Building
