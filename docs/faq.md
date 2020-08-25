@@ -10,7 +10,7 @@ Yep, that’s it.
 That’s OK. It’s not for everyone.
 
 #### Who made this?
-Terminal Land is produced by [Neatnik](https://neatnik.net). [Adam Newbold](https://adam.lol) is the sole developer.
+Terminal Land is produced by [Neatnik](https://neatnik.net).  The sole developer is [Adam Newbold](https://adam.lol).
 
 #### Can you add graphics?
 I’d rather not. This is all about [text](https://en.wikipedia.org/wiki/Text-based_game), after all!
