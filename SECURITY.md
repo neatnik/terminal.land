@@ -1,6 +1,6 @@
 # Security Policy
 
-## Supported Versions
+## Supported versions
 
 All builds of Terminal Land are supported with security updates.
 
@@ -8,6 +8,6 @@ All builds of Terminal Land are supported with security updates.
 | ------- | ------------------ |
 | All     | :white_check_mark: |
 
-## Reporting a Vulnerability
+## Reporting a vulnerability
 
-Should you discover a security vulnerability, responsible disclosure to [terminal.land@neatnik.net](mailto:terminal.land@neatnik.net) would be highly apprciated.
+Should you discover a security vulnerability, responsible disclosure to security@terminal.land would be highly apprciated.
