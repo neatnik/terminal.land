@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Terminal Land</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet" type="text/css" href="https://terminal.land/style">
+</head>
+<body>
+<main>
+<div id="terminal_buffer"></div>
+<div id="terminal_prompt">
+<div id="prompt">&gt;</div><input type="text" id="terminal_prompt_text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="">
+</div>
+<div id="status">
+<span id="place"></span>
+<span id="connection"><span id="connection_dot"></span><span id="person"></span></span>
+</div>
+<div><em>italic-preload</em></div>
+</main>
+<script src="https://terminal.land/client"></script>
+
+<script>
+const electron = require('electron');
+const {ipcRenderer, ipcMain} = electron;
+var person;
+var last_person;
+var place;
+var last_place;
+var intervalID = window.setInterval(checkStatus, 500);
+function checkStatus() {
+	person = document.getElementById('person').innerHTML;
+	place = document.getElementById('place').innerHTML;
+	if(last_person == undefined) last_person = person;
+	if(last_place == undefined) last_place = place;
+	if(person !== last_person) {
+		console.log('Person changed.');
+		ipcRenderer.send('status', {person: person, place: place});
+	}
+	if(place !== last_place) {
+		console.log('Place changed.');
+		ipcRenderer.send('status', {person: person, place: place});
+	}
+	last_person = person;
+	last_place = place;
+}
+
+// Send initial RPC call for people already logged in (two second delay)
+setTimeout(function () {
+	//console.log('Updating presence.');
+	ipcRenderer.send('status', {person: person, place: place});
+}, 2000);
+
+</script>
+
+</body>
+</html>
