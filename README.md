@@ -12,6 +12,10 @@ This is a different kind of game, one in which interactions are purely text-base
 
 If you like spending time in a terminal, you might enjoy Terminal Land. And if you like [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction), you might _love_ it.
 
+## Play
+
+You can download a [desktop client](https://github.com/neatnik/terminal.land/releases/nightly), or play in your browser at https://terminal.land.
+
 ## Documentation
 
 All information about the game can be found in the [Guide](https://guide.terminal.land), at https://guide.terminal.land. Feel free to suggest additions or changes in GitHub.
