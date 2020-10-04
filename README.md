@@ -22,7 +22,7 @@ There are a few ways to get help:
 
 1. Open an [issue](https://github.com/neatnik/terminal.land/issues) here in GitHub. Issues aren’t just for bugs! If you have a question or need clarification, you’re encouraged to open an issue.
 2. Ask in the [Discord server](https://discord.gg/m7aqjBq) and someone will help you there.
-3. Send an email to [terminal.land@neatnik.net](mailto:terminal.land@neatnik.net).
+3. Send an email to support@terminal.land.
 
 ## Supporting Terminal Land
 
