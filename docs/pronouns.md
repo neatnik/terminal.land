@@ -12,7 +12,7 @@ Terminal Land recognizes five unique pronoun forms, and you can set each of them
 | Possessive | `possessive_pronoun` | Stands alone to indicate posession. | At least I think it was **hers**.
 | Reflexive | `reflexive_pronoun` | Used when the subject and object of a sentence are the same. | She threw the frisbee to **herself**.
 
-(Examples taken from https://pronoun.is, which is a wonderful resource.)
+(Examples taken from [Pronoun Island](https://pronoun.is), which is a wonderful resource.)
 
 ## Setting your pronouns
 
