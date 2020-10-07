@@ -19,6 +19,8 @@ header a:active {
 
 blockquote {
 	font-family: monospace;
-	color: #fff;
+	color: #fff !important;
 	background: #000;
+	margin-top: .5em !important;
+	margin-bottom: .5em !important;
 }
