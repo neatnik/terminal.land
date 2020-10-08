@@ -57,7 +57,7 @@ And when people look at you, they’ll see:
 
 ### Your pronouns
 
-Your pronouns will be used in different ways within the game. You don’t _have_ to set them, but it’s a great way to have other people (and the game itself) refer to you correctly. You can set all five pronoun forms individually (we have a whole page about pronouns that goes into detail on this), but you can take a shortcut and set them more easily with this syntax:
+Your pronouns will be used in different ways within the game. You don’t _have_ to set them, but it’s a great way to have other people (and the game itself) refer to you correctly. You can set all five pronoun forms individually (we have [a whole page about pronouns](pronouns.md) that goes into detail on this), but you can take a shortcut and set them more easily with this syntax:
 
 > &gt; SET my pronouns TO she/her
 
