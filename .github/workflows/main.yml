@@ -7,10 +7,6 @@ defaults:
     working-directory: clients/electron
 
 jobs:
-  defaults:
-      run:
-        shell: bash
-        working-directory: clients/electron
         
   release:
     runs-on: ${{ matrix.os }}
