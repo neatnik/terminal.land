@@ -4,9 +4,14 @@ on: push
 
 defaults:
   run:
-    working-directory: clients/electron/
+    working-directory: clients/electron
 
 jobs:
+  defaults:
+      run:
+        shell: bash
+        working-directory: clients/electron
+        
   release:
     runs-on: ${{ matrix.os }}
 
