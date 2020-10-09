@@ -1,6 +1,9 @@
 name: Build/release
 
-on: push
+on:
+  push:
+    paths:
+      - clients/electron/*
 
 defaults:
   run:
