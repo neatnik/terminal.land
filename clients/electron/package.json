@@ -2,7 +2,7 @@
   "appID": "com.neatnik.terminal-land.app",
   "name": "terminal-land",
   "productName": "Terminal Land",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A boundless world of interactive fiction",
   "main": "src/index.js",
   "scripts": {
@@ -14,8 +14,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "Adam Newbold",
-    "email": "adam@neatnik.net"
+    "name": "Neatnik LLC",
+    "email": "support@neatnik.net"
   },
   "license": "MIT",
   "build": {
@@ -48,37 +48,6 @@
       "title": "${productName}"
     },
     "afterSign": "scripts/notarize.js"
-  },
-  "config": {
-    "forge": {
-      "packagerConfig": {
-        "icon": "assets/icon.icns"
-      },
-      "makers": [
-        {
-          "name": "@electron-forge/maker-squirrel",
-          "config": {
-            "name": "terminal_land"
-          }
-        },
-        {
-          "name": "@electron-forge/maker-zip",
-          "platforms": [
-            "darwin",
-            "linux",
-            "windows"
-          ]
-        },
-        {
-          "name": "@electron-forge/maker-deb",
-          "config": {}
-        },
-        {
-          "name": "@electron-forge/maker-rpm",
-          "config": {}
-        }
-      ]
-    }
   },
   "dependencies": {
     "discord-rich-presence": "0.0.8",
