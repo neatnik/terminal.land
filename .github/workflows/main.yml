@@ -2,6 +2,10 @@ name: Build/release
 
 on: push
 
+defaults:
+  run:
+    working-directory: clients/electron/
+
 jobs:
   release:
     runs-on: ${{ matrix.os }}
