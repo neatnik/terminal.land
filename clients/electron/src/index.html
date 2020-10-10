@@ -5,19 +5,28 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" type="text/css" href="https://terminal.land/style">
+<!--<script src="/js/emoji.js?v=<?php echo microtime(1); ?>"></script>-->
 </head>
 <body>
 <main>
-<div id="terminal_buffer"></div>
-<div id="terminal_prompt">
+	
+<div id="terminal_buffer" style="border: 0px solid red;"></div>
+
+<div id="terminal_prompt" style="border: 0px solid green;">
 <div id="prompt">&gt;</div><input type="text" id="terminal_prompt_text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="">
 </div>
+
 <div id="status">
 <span id="place"></span>
 <span id="connection"><span id="connection_dot"></span><span id="person"></span></span>
 </div>
+
 <div><em>italic-preload</em></div>
+
+<span id="typing"></span>
+
 </main>
+
 <script src="https://terminal.land/client"></script>
 
 <script>
