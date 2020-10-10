@@ -6,6 +6,10 @@ _A boundless world of interactive fiction, with a dash of Bash_
 
 <a href="https://terminal.land"><img alt="Connect to Terminal Land" src="https://terminal.land/svg/banner.svg?v=4"></a>
 
+## Note!
+
+Terminal Land is, like, _extremely_ beta software. We’re hacking away at it daily! All of the usual beta things apply: things will break, or be weird, or both. Hang in there with us.
+
 ## About
 
 This is a different kind of game, one in which interactions are purely text-based and the graphics exist solely in your mind. It might not be your cup of tea, but that’s OK—it’s not for everyone. ☺️
@@ -36,4 +40,4 @@ If you’d like to contribute to Terminal Land’s development, consider sponsor
 * [Patreon](https://patreon.com/neatnik)
 * [Ko-fi](https://ko-fi.com/neatnik)
 
-Your support would mean so much, and you also get some pretty sweet goodies, too!
+Your support would mean so much, and you also get some pretty sweet in-game goodies, too!
