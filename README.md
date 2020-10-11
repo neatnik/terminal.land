@@ -18,7 +18,7 @@ If you like spending time in a terminal, you might enjoy Terminal Land. And if y
 
 ## Play
 
-You can download a [desktop client](https://github.com/neatnik/terminal.land/releases/nightly), or play in your browser at https://terminal.land.
+You can download a [desktop client](https://github.com/neatnik/terminal.land/releases/latest), or play in your browser at https://terminal.land.
 
 ## Documentation
 
