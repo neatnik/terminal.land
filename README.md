@@ -28,7 +28,7 @@ All information about the game can be found in the [Guide](https://guide.termina
 
 There are a few ways to get help:
 
-1. Open an [issue](https://github.com/neatnik/terminal.land/issues) here in GitHub. Issues aren’t just for bugs! If you have a question or need clarification, you’re encouraged to open an issue.
+1. Open an [issue](https://github.com/neatnik/terminal.land/issues/new) here in GitHub. Issues aren’t just for bugs! If you have a question or need clarification, you’re encouraged to open an issue.
 2. Ask in the [Discord server](https://discord.gg/m7aqjBq) and someone will help you there.
 3. Send an email to support@terminal.land.
 
