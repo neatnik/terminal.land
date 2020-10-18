@@ -24,7 +24,8 @@ const createWindow = () => {
     width: mainWindowState.width,
     height: mainWindowState.height,
     webPreferences: {
-      nodeIntegration: true
+      nodeIntegration: true,
+      //webSecurity: false
     },
     //titleBarStyle: "hidden",
     frame: false
@@ -83,10 +84,12 @@ ipcMain.on('status', function(e, value) {
 
 function setPresence(details, state) {
 	rpc.updatePresence({
-		details: details,       
+		details: details,
 		state: state,
-		largeImageKey: 'tl-icon-master',
-		largeImageText: 'Terminal Land'
+		largeImageKey: 'terminal_land_icon_discord',
+		largeImageText: 'Terminal Land',
+    startTimestamp: Date.now(),
+    instance: 1,
 	})
 }
 

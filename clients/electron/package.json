@@ -2,7 +2,7 @@
   "appID": "com.neatnik.terminal-land.app",
   "name": "terminal-land",
   "productName": "Terminal Land",
-  "version": "0.0.001",
+  "version": "0.0.002",
   "description": "A boundless world of interactive fiction.",
   "main": "src/index.js",
   "keywords": [],
