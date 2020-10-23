@@ -22,7 +22,7 @@ You can download a [desktop client](https://github.com/neatnik/terminal.land/rel
 
 ## Documentation
 
-All information about the game can be found in the [Guide](https://guide.terminal.land), at https://guide.terminal.land. Feel free to suggest additions or changes in GitHub.
+All information about the game can be found in the [Guide](https://guide.terminal.land), at https://guide.terminal.land. Feel free to suggest additions or changes in GitHub (via an issue).
 
 ## Help
 
