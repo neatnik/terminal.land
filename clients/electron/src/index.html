@@ -5,9 +5,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <link rel="stylesheet" type="text/css" href="https://terminal.land/style">
+<!--<script src="/js/emoji.js?v=<?php echo microtime(1); ?>"></script>-->
+<meta name="ifid" content="F25B112B-8CCA-4585-A745-021C9E4CF8E1"> <!-- UUID://F25B112B-8CCA-4585-A745-021C9E4CF8E1// -->
 </head>
 <body>
-<main>
+<main class="crt">
 	
 <div id="terminal_buffer" style="border: 0px solid red;"></div>
 
@@ -15,9 +17,9 @@
 <div id="prompt">&gt;</div><input type="text" id="terminal_prompt_text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="">
 </div>
 
-<div id="status">
-<span id="place"></span>
-<span id="connection"><span id="connection_dot"></span><span id="person"></span></span>
+<div id="status_bar">
+<span id="status_bar_location"></span>
+<span id="status_bar_person"><span id="connection"></span><span id="person_name"></span></span>
 </div>
 
 <div><em>italic-preload</em></div>
@@ -25,8 +27,9 @@
 <span id="typing"></span>
 
 </main>
-
 <script src="https://terminal.land/client"></script>
+
+<!-- Begin Electron stuff -->
 
 <script>
 const electron = require('electron');
@@ -60,6 +63,8 @@ setTimeout(function () {
 }, 2000);
 
 </script>
+
+<!-- End Electron stuff -->
 
 </body>
 </html>

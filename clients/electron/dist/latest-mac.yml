@@ -1,0 +1,12 @@
+version: 0.0.1
+files:
+  - url: Terminal-Land.zip
+    sha512: MsLzJPZZrDlBYm6jsdphFPFfM6Ycm+hgSBu32J5HdwjAIWzW/Zt3fdT1+M+T3/FgzSC0kVzYLaR0YGSw9GkuQw==
+    size: 75848557
+    blockMapSize: 80331
+  - url: Terminal-Land.dmg
+    sha512: IMGxFiX2+ub+SS7oDbbAVj9QhYQ83pLiv1Vu3O0bi2dTNZlxXdIcMdfrToiltAQzzRDQ24N5k9CZ9YYuaeeM1w==
+    size: 78292873
+path: Terminal-Land.zip
+sha512: MsLzJPZZrDlBYm6jsdphFPFfM6Ycm+hgSBu32J5HdwjAIWzW/Zt3fdT1+M+T3/FgzSC0kVzYLaR0YGSw9GkuQw==
+releaseDate: '2020-11-01T20:19:59.675Z'
