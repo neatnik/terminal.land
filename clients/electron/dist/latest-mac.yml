@@ -1,12 +1,12 @@
-version: 0.0.1
+version: 0.0.2
 files:
   - url: Terminal-Land.zip
-    sha512: MsLzJPZZrDlBYm6jsdphFPFfM6Ycm+hgSBu32J5HdwjAIWzW/Zt3fdT1+M+T3/FgzSC0kVzYLaR0YGSw9GkuQw==
-    size: 75848557
-    blockMapSize: 80331
+    sha512: Ut/zMQ+zHTxPPgVyny77nPfYsDnXHDJR4pflVFwSNh3NQ24BRxgz6KO/TKl2Bj5TFI8tlkO8g/tCStB/BYtCrw==
+    size: 75849179
+    blockMapSize: 80274
   - url: Terminal-Land.dmg
-    sha512: IMGxFiX2+ub+SS7oDbbAVj9QhYQ83pLiv1Vu3O0bi2dTNZlxXdIcMdfrToiltAQzzRDQ24N5k9CZ9YYuaeeM1w==
-    size: 78292873
+    sha512: O9K3ZD/pAJnKeBYB3atJl9fDMvk+Oeh4WiVxt6ApUk4cZzVMK9bDY37OhHWIips42bCWpRbgr82Wi9XaGpgmXQ==
+    size: 78293514
 path: Terminal-Land.zip
-sha512: MsLzJPZZrDlBYm6jsdphFPFfM6Ycm+hgSBu32J5HdwjAIWzW/Zt3fdT1+M+T3/FgzSC0kVzYLaR0YGSw9GkuQw==
-releaseDate: '2020-11-01T20:19:59.675Z'
+sha512: Ut/zMQ+zHTxPPgVyny77nPfYsDnXHDJR4pflVFwSNh3NQ24BRxgz6KO/TKl2Bj5TFI8tlkO8g/tCStB/BYtCrw==
+releaseDate: '2020-11-02T06:06:12.712Z'

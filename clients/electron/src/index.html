@@ -24,6 +24,24 @@
 
 <div><em>italic-preload</em></div>
 
+<div id="audio_controls">
+<span id="track_name"></span>
+<!--<input type="range" id="volume" class="control-volume" min="0" max="2" value="1" list="gain-vals" step="0.01" data-action="volume" />
+<datalist id="gain-vals">
+<option value="0" label="min">
+<option value="2" label="max">
+</datalist>
+<label for="volume">VOL</label>
+-->
+<button id="audio_button" class="control-power" role="switch" aria-checked="false" data-power="">
+
+<span id="play_button"><svg style="color: #000; width: 1em;" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="play" class="svg-inline--fa fa-play fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path></svg></span>
+
+<span id="pause_button"><svg style="color: #000; width: 1em;" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="pause" class="svg-inline--fa fa-pause fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M144 479H48c-26.5 0-48-21.5-48-48V79c0-26.5 21.5-48 48-48h96c26.5 0 48 21.5 48 48v352c0 26.5-21.5 48-48 48zm304-48V79c0-26.5-21.5-48-48-48h-96c-26.5 0-48 21.5-48 48v352c0 26.5 21.5 48 48 48h96c26.5 0 48-21.5 48-48z"></path></svg>
+
+</button>
+</div>
+
 <span id="typing"></span>
 
 </main>
@@ -40,8 +58,8 @@ var place;
 var last_place;
 var intervalID = window.setInterval(checkStatus, 500);
 function checkStatus() {
-	person = document.getElementById('person').innerHTML;
-	place = document.getElementById('place').innerHTML;
+	person = document.getElementById('person_name').innerHTML;
+	place = document.getElementById('status_bar_location').innerHTML;
 	if(last_person == undefined) last_person = person;
 	if(last_place == undefined) last_place = place;
 	if(person !== last_person) {

@@ -1,8 +1,8 @@
-version: 0.0.1
+version: 0.0.2
 files:
   - url: Terminal-Land-Setup.exe
-    sha512: RCX20DKavUcdIxJTzd+k0gznj1dlZGmBaMboUm6CiiSaFohOx0AjNZ63bW9RgH7ZanM4MNcKhHKtyFnfe1ytNg==
-    size: 49306480
+    sha512: vs+00MXdPzxK0Ok7CGytyx7Dbr0Vp+clh6unuYX5pt7aKMCC3cjXLH0sSsAZ9CcD5q92kZmu8wsLi9x9UbxHOA==
+    size: 49283648
 path: Terminal-Land-Setup.exe
-sha512: RCX20DKavUcdIxJTzd+k0gznj1dlZGmBaMboUm6CiiSaFohOx0AjNZ63bW9RgH7ZanM4MNcKhHKtyFnfe1ytNg==
-releaseDate: '2020-11-01T20:26:16.997Z'
+sha512: vs+00MXdPzxK0Ok7CGytyx7Dbr0Vp+clh6unuYX5pt7aKMCC3cjXLH0sSsAZ9CcD5q92kZmu8wsLi9x9UbxHOA==
+releaseDate: '2020-11-02T06:10:30.668Z'
