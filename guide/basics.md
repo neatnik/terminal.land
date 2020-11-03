@@ -6,7 +6,9 @@ Here’s your crash course in Terminal Land. Follow along here and you’ll be u
 
 Terminal Lannd’s interface is really simple. There’s a chunk of text, which tells you what’s going on. And then there’s a prompt, which looks like this:
 
-> &gt;
+```
+>
+```
 
 You type simple commands into the prompt to do things, and then the game tells you what happens. Easy! The rest of this page will tell you the kinds of commands that you can type at the prompt.
 
@@ -23,11 +25,15 @@ After you register, or whenever you log in, the game runs the `LOOK` command for
 
 You might see people talking to each other. You can talk too! Just use the `SAY` command, like this:
 
-> &gt; SAY hello!
+```
+> SAY hello!
+```
 
 And everyone around you will see you say “hello!” There’s a shortcut for this, which is to put a single quote in front of what you want to say (you don’t even have to close the quote), like this:
 
-> &gt; "hello!
+```
+> "hello!
+```
 
 ## Gear up
 
@@ -49,37 +55,45 @@ You can `SET` all kinds of properties for yourself, but there are a couple that 
 
 Your description is what people will see when they `LOOK` at you. Make yours all about you! You can set it with the `SET` command, like this:
 
-> &gt; SET my description TO Long flowing brown hair frames a soft, kind face.
+```
+> SET my description TO Long flowing brown hair frames a soft, kind face.
+```
 
 And when people look at you, they’ll see:
 
+```
 > Long flowing brown hair frames a soft, kind face.
+```
 
 ### Your pronouns
 
-Your pronouns will be used in different ways within the game. You don’t _have_ to set them, but it’s a great way to have other people (and the game itself) refer to you correctly. You can set all five pronoun forms individually (we have [a whole page about pronouns](pronouns.md) that goes into detail on this), but you can take a shortcut and set them more easily with this syntax:
+Your pronouns will be used in different ways within the game. You don’t _have_ to set them, but it’s a great way to have other people (and the game itself) refer to you correctly. You can set all five pronoun forms individually (we have [a whole page about pronouns](pronouns) that goes into detail on this), but you can take a shortcut and set them more easily with this syntax:
 
-> &gt; SET my pronouns TO she/her
+```
+> SET my pronouns TO she/her
+```
 
 And then when people `LOOK` at you, they’ll see:
 
-> Long flowing brown hair frames a soft, kind face.
-> 
-> She is carrying a backpack, a battered notebook, and a pair of hypersonic pliers.
+```
+Long flowing brown hair frames a soft, kind face.
+
+She is carrying a backpack, a battered notebook, and a pair of hypersonic pliers.
+```
 
 ## Go out and about
 
 Moving around in Terminal Land is fairly easy. You can `GO` in almost any cardinal direction. Usually when you `LOOK` around, the place’s description will give you some clues as to where you can `GO`. Like this:
 
-> &gt; LOOK
-> 
-> You’re standing at the end of a narrow hallway. There’s a closed door ahead to the north, and open doorways to the east and west. The exit back to the ballroom is behind you to the south.
+```
+> LOOK
+
+You’re standing at the end of a narrow hallway. There’s a closed door ahead to the north, and open doorways to the east and west. The exit back to the ballroom is behind you to the south.
+```
 
 With this information, you know you can `GO NORTH`, or `GO SOUTH`, or even east or west. (You can also omit the `GO` verb and just type a caridinal direction; the truly lazy can just type the abbreviation of the direction like `N`, `S`, `E`, or `W`.)
 
-
 ----
-
 
 ## Ready to begin your adventure?
 

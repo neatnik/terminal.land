@@ -6,7 +6,7 @@ The list of commands below is fairly exhaustive, but there are other commands no
 
 Note: commands are shown in capital letters to make them stand out, but you can type them any way you’d like.
 
-## World Interaction
+## World interaction
 
 | Command | Arguments | Info |
 |  :--- |  :--- |  :--- |
@@ -47,7 +47,7 @@ Note: commands are shown in capital letters to make them stand out, but you can 
 
 | Command | Arguments | Info |
 |  :--- |  :--- |  :--- |
-| MAKE | Noun (required) | Makes a new noun.
+| CREATE | Noun (required) | Create a new noun.
 | DESTROY | Noun (Required) | Destroys an existing noun.
 
 ## Meta

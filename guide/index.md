@@ -6,7 +6,7 @@ This documentation will help you with just about every aspect of the game, thoug
 
 ## Getting Started
 
-If you’re new to all of this and have no idea what to do, start with [The Basics](basics.md). We’ll walk you through everything!
+If you’re new to all of this and have no idea what to do, start with [The Basics](basics). We’ll walk you through everything!
 
 ## What is Terminal Land?
 
@@ -14,8 +14,8 @@ Terminal Land is a multiplayer interactive fiction game that you can play in you
 
 ## Guide Contents
 
-* Check out the [Command Reference](commands.md) for a full list of commands
-* View the [FAQ](faq.md), which answers questions that you probably even’t think to ask
+* Check out the [Command Reference](commands) for a full list of commands
+* View the [FAQ](faq), which answers questions that you probably even’t think to ask
 
 ## Also
 

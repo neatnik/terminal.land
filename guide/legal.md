@@ -1,6 +1,6 @@
 # Terms of Use & Privacy Policy
 
-_This page was created on September 28, 2020. You can view a full history of all changes [here](https://github.com/neatnik/terminal.land/commits/main/docs/legal.md)._
+_This page was created on September 28, 2020. You can view a full history of all changes [here](https://github.com/neatnik/terminal.land/commits/main/docs/legal)._
 
 Hello! 👋 This page contains our [Terms of Use](#terms-of-use) and [Privacy Policy](#privacy-policy). Please read them over carefully. You must agree to both before registering with Terminal Land, and your use of Terminal Land indicates your ongoing agreement to these items.
 
