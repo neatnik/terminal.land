@@ -2,11 +2,11 @@
 
 ## Supported versions
 
-All builds of Terminal Land are supported with security updates.
+All builds of Terminal Land are supported with routine security updates.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| All     | :white_check_mark: |
+## Reporting bugs
+
+Please use the GitHub issues feature to report common bugs that don’t pose security risks.
 
 ## Reporting a vulnerability
 
