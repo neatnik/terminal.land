@@ -1,3 +1,8 @@
+%{
+	"title": "Terminal Land Legal Documents",
+	"description": "Very important legally-binding stuff, no joke"
+}%
+
 # Terms of Use & Privacy Policy
 
 _This page was created on September 28, 2020. You can view a full history of all changes [here](https://github.com/neatnik/terminal.land/commits/main/docs/legal)._

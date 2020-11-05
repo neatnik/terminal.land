@@ -1,3 +1,8 @@
+%{
+	"title": "Commands",
+	"description": "A comprehensive listing of Terminal Land commands"
+}%
+
 # Command Reference
 
 You can always view a list of commands within the game by typing `HELP`. You can also get more information about any command by typing `HELP` and then the command name, e.g. `HELP LOOK`.

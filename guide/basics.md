@@ -1,3 +1,8 @@
+%{
+"title": "The Basics",
+"description": "Here’s your crash course in Terminal Land. Follow along here and you’ll be up to speed in no time!"
+}%
+
 # The Basics
 
 Here’s your crash course in Terminal Land. Follow along here and you’ll be up to speed in no time!

@@ -1,3 +1,8 @@
+%{
+	"title": "Terminal Land Guide",
+	"description": "Welcome to the Terminal Land Guide, which we double dog dare you to read in its entirety"
+}%
+
 # Welcome
 
 Greetings, traveler! You’ve arrived in Terminal Land, where your awesome adventure awaits!
@@ -19,4 +24,4 @@ Terminal Land is a multiplayer interactive fiction game that you can play in you
 
 ## Also
 
-Be sure to check out the [Compendium](https://compendium.terminal.land), where you can explore the people, places, and things within the game.
+Be sure to check out the [Compendium](https://terminal.land/compendium/), where you can explore the people, places, and things within the game.

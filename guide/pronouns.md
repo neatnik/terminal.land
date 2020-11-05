@@ -1,3 +1,8 @@
+%{
+	"title": "Pronouns",
+	"description": "How to manage your pronouns in Terminal Land"
+}%
+
 # Pronouns
 
 We’re not really concerned with gender in Terminal Land; we’re far more concerend with making sure that you’re called what you want to be called, both by the game’s parser and and by other players. Everyone deserves to be included and respected, and we’ve designed the game to uphold that value.
