@@ -67,7 +67,7 @@ YOU HEREBY ACKNOWLEDGE THAT THIS SECTION SHALL APPLY TO ALL CONTENTS ON ALL SERV
 
 ### Changes to the Terms of Use
 
-These Terms of Use may change at any time. The current published version of the terms will always be available at https://guide.terminal.land/legal. You will be notified about material changes to the Terms of Use through a message in the Service.
+These Terms of Use may change at any time. The current published version of the terms will always be available at https://terminal.land/guide/legal. You will be notified about material changes to the Terms of Use through a message in the Service.
 
 ___
 
