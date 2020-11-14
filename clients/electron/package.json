@@ -2,7 +2,7 @@
 	"appID": "com.neatnik.terminal-land.app",
 	"name": "terminal-land",
 	"productName": "Terminal Land",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "A boundless world of interactive fiction.",
 	"main": "src/index.js",
 	"keywords": [],
@@ -18,11 +18,13 @@
 			"artifactName": "${productName}.${ext}",
 			"category": "Game",
 			"target": "tar.gz",
-			"publish": [{
-				"provider": "github",
-				"repo": "terminal.land",
-				"owner": "neatnik"
-			}]
+			"publish": [
+				{
+					"provider": "github",
+					"repo": "terminal.land",
+					"owner": "neatnik"
+				}
+			]
 		},
 		"win": {
 			"artifactName": "${productName}.${ext}",
@@ -30,11 +32,13 @@
 				"portable",
 				"nsis"
 			],
-			"publish": [{
-				"provider": "github",
-				"repo": "terminal.land",
-				"owner": "neatnik"
-			}]
+			"publish": [
+				{
+					"provider": "github",
+					"repo": "terminal.land",
+					"owner": "neatnik"
+				}
+			]
 		},
 		"nsis": {
 			"artifactName": "${productName} Setup.${ext}"
@@ -46,21 +50,25 @@
 			"gatekeeperAssess": false,
 			"entitlements": "build/entitlements.mac.plist",
 			"entitlementsInherit": "build/entitlements.mac.plist",
-			"publish": [{
-				"provider": "github",
-				"repo": "terminal.land",
-				"owner": "neatnik"
-			}]
+			"publish": [
+				{
+					"provider": "github",
+					"repo": "terminal.land",
+					"owner": "neatnik"
+				}
+			]
 		},
 		"dmg": {
 			"title": "${productName}"
 		},
 		"afterSign": "scripts/notarize.js",
-		"publish": [{
-			"provider": "github",
-			"repo": "terminal.land",
-			"owner": "neatnik"
-		}]
+		"publish": [
+			{
+				"provider": "github",
+				"repo": "terminal.land",
+				"owner": "neatnik"
+			}
+		]
 	},
 	"dependencies": {
 		"discord-rich-presence": "0.0.8",
