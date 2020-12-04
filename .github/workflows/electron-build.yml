@@ -1,6 +1,9 @@
 name: Electron build
 
-on: push
+on:
+  push:
+    paths:
+    - 'clients/electron/**'
 
 jobs:
   release:
