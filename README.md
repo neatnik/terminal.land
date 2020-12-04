@@ -1,6 +1,6 @@
 # Terminal Land
 
-_A boundless world of interactive fiction_
+_A boundless world of interactive fiction and toast_
 
 [![Discord](https://img.shields.io/discord/559114885083037717)](https://discord.gg/D8vwKky) [![xyzzy](https://img.shields.io/badge/xyzzy-compliant-brightgreen)](https://en.wikipedia.org/wiki/Xyzzy_(computing)) [![Status](https://img.shields.io/uptimerobot/status/m785814565-dfdfd593481abf0ab1721eee)](https://stats.uptimerobot.com/21YGVIk07G) [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/TerminalLand?style=social)](https://www.reddit.com/r/TerminalLand/) [![Twitter](https://img.shields.io/twitter/follow/terminalland?label=Follow+@TerminalLand&style=social)](https://twitter.com/terminalland)
 
