@@ -2,7 +2,7 @@
 	"appID": "com.neatnik.terminal-land.app",
 	"name": "terminal-land",
 	"productName": "Terminal Land",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "A boundless world of interactive fiction.",
 	"main": "src/index.js",
 	"keywords": [],
@@ -13,7 +13,7 @@
 	"license": "MIT",
 	"build": {
 		"productName": "Terminal Land",
-		"copyright": "Copyright © 2020 Neatnik LLC",
+		"copyright": "Copyright © 2021 Neatnik LLC",
 		"linux": {
 			"artifactName": "${productName}.${ext}",
 			"category": "Game",
