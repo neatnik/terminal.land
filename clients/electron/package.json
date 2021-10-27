@@ -2,7 +2,7 @@
 	"appID": "com.neatnik.terminal-land.app",
 	"name": "terminal-land",
 	"productName": "Terminal Land",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "A boundless world of interactive fiction.",
 	"main": "src/index.js",
 	"keywords": [],
@@ -78,7 +78,7 @@
 		"electron-window-state": "^5.0.3"
 	},
 	"devDependencies": {
-		"electron": "10.2.0",
+		"electron": "^15.3.0",
 		"electron-notarize": "^1.0.0"
 	}
 }
