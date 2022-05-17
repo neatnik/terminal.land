@@ -78,7 +78,7 @@
 		"electron-window-state": "^5.0.3"
 	},
 	"devDependencies": {
-		"electron": "^15.3.0",
+		"electron": "^15.3.5",
 		"electron-notarize": "^1.0.0"
 	}
 }
