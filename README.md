@@ -2,7 +2,7 @@
 
 _A boundless world of interactive fiction_
 
-[![xyzzy](https://img.shields.io/badge/xyzzy-compliant-brightgreen)](https://en.wikipedia.org/wiki/Xyzzy_(computing)) [![Status]
+[![xyzzy](https://img.shields.io/badge/xyzzy-compliant-brightgreen)](https://en.wikipedia.org/wiki/Xyzzy_(computing))
 
 ## Note!
 
