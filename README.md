@@ -6,7 +6,7 @@ _A boundless world of interactive fiction_
 
 ## Note!
 
-Terminal Land in an early beta stage of development. We’re hacking away at it daily! All of the usual beta things apply: things will break, or be weird, or both. Hang in there with us, report bugs, and have fun!
+_Terminal Land is taking a break but will be back in 2023._
 
 ## About
 
