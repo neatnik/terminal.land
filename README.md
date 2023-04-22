@@ -6,7 +6,7 @@ _A boundless world of interactive fiction_
 
 ## Note!
 
-Terminal Land in an early beta stage of development. We’re hacking away at it daily! All of the usual beta things apply: things will break, or be weird, or both. Hang in there with us, report bugs, and have fun!
+_Terminal Land is taking a break but will be back in 2023._
 
 ## About
 
@@ -28,13 +28,3 @@ There are a couple of ways to get help:
 
 1. Open an [issue](https://github.com/neatnik/terminal.land/issues/new) here in GitHub. Issues aren’t just for bugs! If you have a question or need clarification, you’re encouraged to open an issue.
 3. Send an email to support@terminal.land.
-
-## Supporting Terminal Land
-
-If you’d like to contribute to Terminal Land’s development, consider sponsoring the project on one of these platforms:
-
-* [GitHub](https://github.com/sponsors/neatnik)
-* [Patreon](https://patreon.com/neatnik)
-* [Ko-fi](https://ko-fi.com/neatnik)
-
-Your support would mean so much, and you also get some pretty sweet in-game goodies, too!
